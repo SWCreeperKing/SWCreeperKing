@@ -1,3 +1,10 @@
+# A Self Taught Programmer Since 2/18/2018
+started with java for a year then switch to C#
+<br>
+been using C# ever since!
+<br>
+<br>
+
 <div align="center">
   <a href = "https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=SWCreeperKing&show_icons=true&theme=algolia">  
