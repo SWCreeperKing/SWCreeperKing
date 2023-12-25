@@ -1,11 +1,18 @@
 # A Self Taught Programmer Since 2/18/2018
-started with java for a year then switch to C#
+started with java for a year then switched to C#
 <br>
 been using C# ever since!
 <br>
 <br>
 
 <div align="center">
+  <a href="https://www.twitch.tv/sw__creeperking">
+    <img src="https://img.shields.io/twitch/status/sw__creeperking?style=for-the-badge&logo=twitch&label=Twitch">
+  </a>
+  <a href="https://www.youtube.com/@SWCreeperKing">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCKsNCPXJh6fC8MGrk77XR8Q?style=for-the-badge&logo=youtube&label=Youtube">
+  </a>
+  <br>
   <a href = "https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=SWCreeperKing&show_icons=true&theme=algolia">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWCreeperKing&theme=algolia&layout=compact">
