@@ -1,3 +1,11 @@
-[![my stats](https://github-readme-stats.vercel.app/api?username=SWCreeperKing&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWCreeperKing&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=AdventOfCode&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=AutoModApi&theme=algolia">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=RayWrapper&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=RayWork&theme=algolia">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SWCreeperKing&show_icons=true&theme=algolia">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWCreeperKing&theme=algolia&layout=compact">
+</div>
