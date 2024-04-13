@@ -13,6 +13,10 @@ been using C# ever since!
     <img src="https://img.shields.io/youtube/channel/subscribers/UCKsNCPXJh6fC8MGrk77XR8Q?style=for-the-badge&logo=youtube&label=Youtube">
   </a>
   <br>
+  <a href="https://projecteuler.net/">
+    <img src="https://projecteuler.net/profile/SW_CreeperKing.png">
+  </a>
+  <br>
   <a href = "https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=SWCreeperKing&show_icons=true&theme=algolia">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWCreeperKing&theme=algolia&layout=compact">
