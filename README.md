@@ -43,6 +43,10 @@
   <a href="https://github.com/SWCreeperKing/PowerwashSimAP" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=PowerwashSimAP&theme=algolia">
   </a>
+  <br>
+  <a href="https://github.com/SWCreeperKing/ArchipelagoSurvivors" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=ArchipelagoSurvivors&theme=algolia">
+  </a>
 
   ### ALL of my ApWorlds
   
