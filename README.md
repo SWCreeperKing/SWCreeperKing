@@ -47,7 +47,10 @@
   <a href="https://github.com/SWCreeperKing/ArchipelagoSurvivors" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=ArchipelagoSurvivors&theme=algolia">
   </a>
-
+  <a href="https://github.com/SWCreeperKing/Slimipelago" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=Slimipelago&theme=algolia">
+  </a>
+  
   ### ALL of my ApWorlds
   
   <a href="https://github.com/SWCreeperKing/DeathLinkipelago_APWorld" target="_blank">
