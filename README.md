@@ -50,6 +50,10 @@
   <a href="https://github.com/SWCreeperKing/Slimipelago" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=Slimipelago&theme=algolia">
   </a>
+  <br>
+  <a href="https://github.com/SWCreeperKing/Widgitpelago" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=Widgitpelago&theme=algolia">
+  </a>
   
   ### ALL of my ApWorlds
   
