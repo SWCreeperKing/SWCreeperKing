@@ -54,6 +54,9 @@
   <a href="https://github.com/SWCreeperKing/Widgitpelago" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=Widgitpelago&theme=algolia">
   </a>
+  <a href="https://github.com/SWCreeperKing/Werepelago" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=Werepelago&theme=algolia">
+  </a>
   
   ### ALL of my ApWorlds
   
