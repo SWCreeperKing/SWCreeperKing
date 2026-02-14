@@ -28,41 +28,7 @@
   <br>
   <br>
 
-  ## Archipelago Projects
-
-  <a href="https://github.com/SWCreeperKing/DeathLinkipelago" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=DeathLinkipelago&theme=algolia">
-  </a>
-  <a href="https://github.com/SWCreeperKing/HydraTextClient" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=HydraTextClient&theme=algolia">
-  </a>
-  <br>
-  <a href="https://github.com/SWCreeperKing/PPDSArchipelago" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=PPDSArchipelago&theme=algolia">
-  </a>
-  <a href="https://github.com/SWCreeperKing/PowerwashSimAP" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=PowerwashSimAP&theme=algolia">
-  </a>
-  <br>
-  <a href="https://github.com/SWCreeperKing/ArchipelagoSurvivors" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=ArchipelagoSurvivors&theme=algolia">
-  </a>
-  <a href="https://github.com/SWCreeperKing/Slimipelago" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=Slimipelago&theme=algolia">
-  </a>
-  <br>
-  <a href="https://github.com/SWCreeperKing/Widgitpelago" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=Widgitpelago&theme=algolia">
-  </a>
-  <a href="https://github.com/SWCreeperKing/Werepelago" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=Werepelago&theme=algolia">
-  </a>
-  
-  ### ALL of my ApWorlds
-  
-  <a href="https://github.com/SWCreeperKing/DeathLinkipelago_APWorld" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SWCreeperKing&repo=DeathLinkipelago_APWorld&theme=algolia">
-  </a>
+  ## [Archipelago Projects Trello Board](https://trello.com/b/iOASG4ck/archipelago-projects)
 
   ## 'Normal Projects'
   
